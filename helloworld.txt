@@ -5,7 +5,7 @@ Test 20191223
 +++2nd trial -> ok
 +++testing on mac -> ok
 +++testing on pi3 -_ ok?
-Updated on 20191228
+Updated on 20191228 2nd
 
 
 Master as Main Branch
