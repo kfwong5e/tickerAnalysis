@@ -2,6 +2,9 @@ Hello World GITHUD
 Test 20191223
 
 +++Test Upload
-+++2nd trial
++++2nd trial -> ok
++++testing on mac -> ok
++++testing on pi3
+
 
 Master as Main Branch
