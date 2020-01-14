@@ -7,5 +7,7 @@ Test 20191223
 +++testing on pi3 -_ ok?
 Updated on 20191228 2nd
 
+updated on 20200114
+
 
 Master as Main Branch
